@@ -54,3 +54,6 @@ captures/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Local raw media folder
+project 1/
