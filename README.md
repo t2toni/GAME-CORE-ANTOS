@@ -1,6 +1,8 @@
 # GAME-CORE-ANTOS 🎮⚡
 
 [![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B%20(API%2026--35)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
+[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-00E676?style=for-the-badge&logo=android&logoColor=black)](https://github.com/t2toni/GAME-CORE-ANTOS/releases/download/v1.0.0/AntosGaming.apk)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blueviolet?style=for-the-badge&logo=github)](https://github.com/t2toni/GAME-CORE-ANTOS/releases/latest)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-BOM%202024.06.00-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Architecture](https://img.shields.io/badge/Architecture-MVVM%20%7C%20Clean%20%7C%20UDF-FF6F00?style=for-the-badge)](https://developer.android.com/topic/architecture)
@@ -9,6 +11,47 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](LICENSE)
 
 > **ANTOS Gaming Core** is an open-source, cyberpunk-themed Android gaming companion and in-game telemetry HUD. Built with modern **Kotlin** and **Jetpack Compose**, ANTOS delivers non-intrusive in-game telemetry, non-root visual frame-rate analysis, freeform floating app shortcuts, hardware-accelerated screen recording, distraction blocking, and accidental touch shielding.
+
+<p align="center">
+  <a href="https://github.com/t2toni/GAME-CORE-ANTOS/releases/download/v1.0.0/AntosGaming.apk">
+    <img src="https://img.shields.io/badge/📥%20DOWNLOAD%20ANDROID%20APK-v1.0.0-00FFFF?style=for-the-badge&labelColor=0A0A1E&color=00FFFF" height="38"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/t2toni/GAME-CORE-ANTOS/releases/latest">
+    <img src="https://img.shields.io/badge/🏷️%20VIEW%20GITHUB%20RELEASE-v1.0.0-B300FF?style=for-the-badge&labelColor=0A0A1E&color=B300FF" height="38"/>
+  </a>
+</p>
+
+---
+
+## 📸 App Preview & Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🎮 Cyberpunk Dashboard</b></td>
+      <td align="center"><b>📊 Real-Time Hardware Telemetry</b></td>
+    </tr>
+    <tr>
+      <td><img src="docs/screenshots/dashboard_home.jpg" width="460" alt="Dashboard Home"/></td>
+      <td><img src="docs/screenshots/performance_telemetry.jpg" width="460" alt="Performance Telemetry"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>🕹️ Game Library Hub</b></td>
+      <td align="center"><b>⚡ In-Game Floating HUD (Overlay)</b></td>
+    </tr>
+    <tr>
+      <td><img src="docs/screenshots/game_library.jpg" width="460" alt="Game Library"/></td>
+      <td><img src="docs/screenshots/in_game_hud_clash_of_clans.jpg" width="460" alt="In-Game Floating HUD"/></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><b>🚀 In-Game Quick Tools & Pop-Up Shortcuts</b></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="docs/screenshots/in_game_sidebar_clash_of_clans.jpg" width="650" alt="In-Game Sidebar"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
